@@ -1,5 +1,4 @@
 const passenger="Ravi";
-passenger="Ram";
 const age=25;
 const fromaddress="Boston";
 const toaddress="London";
